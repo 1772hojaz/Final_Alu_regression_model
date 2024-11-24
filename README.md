@@ -51,9 +51,10 @@ https://github.com/1772hojaz/project.git
    ```bash
        cd project
        flutter pub get
+   
 3.Run app: 
-    ```bash
-        flutter run
+```bash
+    flutter run
 
 **Back-end API REPO**
 
