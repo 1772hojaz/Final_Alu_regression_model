@@ -55,6 +55,11 @@ The frontend Flutter application repository can be found here:
 
 ---
 
+## **Api Repository**
+The API repository can be found here:  
+[Flutter App Repo](https://github.com/1772hojaz/Regression_model.git)
+
+---
 ## **Frontend Setup**
 
 1. Clone the Flutter app repository:
