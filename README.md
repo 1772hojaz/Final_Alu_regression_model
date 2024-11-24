@@ -5,7 +5,9 @@ This project is a sales prediction system built using a trained regression model
 - A Flutter frontend for user interaction.
 
 Model1 R-squared: 0.5340612546359426
+
 Model2 R-squared: 0.2544934386954585
+
 model3 R-squared: 0.2544934386954585
 
 
