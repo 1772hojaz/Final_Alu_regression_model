@@ -44,15 +44,15 @@ https://github.com/1772hojaz/project.git
 
 **Frontend setup**
 1. clone the flutter app repository:
-   ```bash
-       git clone [git@github.com:1772hojaz/project.git](https://github.com/1772hojaz/project.git)
+```bash
+   git clone [git@github.com:1772hojaz/project.git](https://github.com/1772hojaz/project.git)
 
 3. Install Dependencies:
    ```bash
        cd project
        flutter pub get
    
-3.Run app: 
+3.Run app:
 ```bash
     flutter run
 
