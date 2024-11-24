@@ -19,6 +19,11 @@ The system predicts sales based on the following input features:
 6. **Outlet_Years**: Number of years since the outlet's establishment (integer).
 
 
+**Swagger API**
+https://regression-model.onrender.com/docs
+
+
+
 **Data set**
 
 Data source https://www.kaggle.com/datasets/devashish0507/big-mart-sales-prediction/data
@@ -49,14 +54,19 @@ https://github.com/1772hojaz/project.git
         flutter run
 
 **Back-end API REPO**
+
+https://github.com/1772hojaz/Regression_model.git
+
 **Back-End SetUp**
 1. clone:
    ```bash
        git clone https://github.com/1772hojaz/Regression_model.git
+
 2.Install Dependencies:
      ```bash
        cd backend
        pip install -r requirements.txt
+
 3. run api:
     ```bash
         uvicorn main:app --reload
