@@ -48,9 +48,9 @@ https://github.com/1772hojaz/project.git
    git clone [git@github.com:1772hojaz/project.git](https://github.com/1772hojaz/project.git)
 
 3. Install Dependencies:
-   ```bash
-       cd project
-       flutter pub get
+```bash
+   cd project
+   flutter pub get
    
 3.Run app:
 ```bash
